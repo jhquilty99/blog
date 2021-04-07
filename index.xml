@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello World! on Hayden Quilty</title>
+    <link>https://jhquilty99.github.io/blog/</link>
+    <description>Recent content in Hello World! on Hayden Quilty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Apr 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://jhquilty99.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stock-Bond Portfolio Projections</title>
+      <link>https://jhquilty99.github.io/blog/post/project-3/</link>
+      <pubDate>Tue, 06 Apr 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://jhquilty99.github.io/blog/post/project-3/</guid>
+      <description>You have $1,000 and you&amp;rsquo;d like to invest in the stock market but you&amp;rsquo;d like to balance the risk and rewards of stocks and bonds in your portfolio. This Tableau visualization will allow you to evaluate the potential return on investment with a variable ratio of stock to bonds. The visualization shows the growth of your $1,000 in the 2008 recession or over the past two years which is characterized as a growth period.</description>
+    </item>
+    
+    <item>
+      <title>Urban Sound Classification</title>
+      <link>https://jhquilty99.github.io/blog/post/project-2/</link>
+      <pubDate>Thu, 10 Dec 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://jhquilty99.github.io/blog/post/project-2/</guid>
+      <description>&amp;ldquo;Tak, tak, tak.&amp;rdquo; It sounds like they&amp;rsquo;re putting up a new high rise on your block. Urban soundscapes are hectic places where the sounds of people and machinery are always a commotion. In order to make sense of the busy noises of a city, we developed a data science algorithm to classify these sounds. The classifier is able to distinguish between 10 different urban sounds including a jackhammer, siren, and children playing with 90% accuracy.</description>
+    </item>
+    
+    <item>
+      <title>Spotify Unsupervised Clustering</title>
+      <link>https://jhquilty99.github.io/blog/post/project-1/</link>
+      <pubDate>Thu, 08 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jhquilty99.github.io/blog/post/project-1/</guid>
+      <description>Like so many other Spotify users I find myself dumping all of my favorite songs into one massive playlist. If only there were some way to automatically make cohesive playlists out of the 1000+ songs I like to hear on Spotify. Thats how I turned to data science to inform and automate my playlist creation.
+Through this self guided project I learned how to:
+ Extract data from Spotify&amp;rsquo;s web API.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://jhquilty99.github.io/blog/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jhquilty99.github.io/blog/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     GitHub:    Instagram:    LinkedIn:     </description>
+    </item>
+    
+  </channel>
+</rss>
