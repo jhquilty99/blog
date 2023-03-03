@@ -6,14 +6,14 @@ jobs:
   deploy:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v2  # v2 does not have submodules option now
+      - uses: actions/checkout@v3  # v2 does not have submodules option now
         # with:
         #   submodules: true
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.62.2'
+          hugo-version: '0.110.0'
           extended: true
 
       - name: Build
