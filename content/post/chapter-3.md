@@ -7,7 +7,7 @@ title: "Portfolio Risk Mix Visualizer"
 ---
 Let's say you have $1,000 and you'd like to invest in the stock market but you'd like to balance the risk and rewards between stocks and bonds in your portfolio. This Tableau visualization will allow you to evaluate the potential return on investment with a variable ratio of stock to bonds. The visualization shows the growth of your $1,000 in the 2008 recession or over the past two years (2018-2020) which is characterized as a growth period.
 
-{{< figure src="images/stock_capture.JPG" >}}
+![Stock and Bond: Risk Reward Visualization on Tableau Public](/images/stock_capture.JPG)
 
 You can check out the viz here:
 https://public.tableau.com/app/profile/john.h.quilty/viz/StockBondValue/Dashboard1
