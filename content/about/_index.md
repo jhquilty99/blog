@@ -1,8 +1,8 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: ''
+title: "About Hayden Quilty"
+description: "Passionate computer scientist, analyst, gardener, and product manager, posting about some of my interests."
+featured_image: 'Headshot'
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/Hayden_headshot.jpg" title="Headshot of Hayden Quilty" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+_Hayden Quilty_ is a Senior Data Analyst at Root where he identifies high value underwriting opportunities and ensures they are delivered at a FinTech startup company. Hayden is currently pursuing new opportunities in product management and analytics.
