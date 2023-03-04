@@ -1,7 +1,7 @@
 ---
 date: 2020-10-08T10:58:08-04:00
 description: "A tool that classifies all the songs in one Spotify playlist into many different clusters, for a more consistent listening experience."
-featured_image: "spotify_logo.jpg"
+featured_image: "/images/spotify_logo.jpg"
 tags: []
 title: "Spotify Playlist Clustering Techniques"
 ---
@@ -13,5 +13,4 @@ In this project, I examined the different dimensions that were offered by Spotif
 To graph the different clustering algorithms, I used PCA to turn the 12 dimensional song data into two dimensions that could be plotted on a computer screen. The graph below shows this in action, with the different colors representing distinctly different sections of songs. To make this framework for clustering songs usable, I created a function that takes in the number of clusters and the Spotify playlist you want to split apart, performs the clustering, and pushes those playlists to Spotify for your listening consumption.
 
 ![t-SNE Clustering of Spotify Playlist Across 2 PCA Dimensions](spotify.jpg)
-< img src="spotify.jpg">
 
