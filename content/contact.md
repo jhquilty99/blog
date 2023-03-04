@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "images/notebook.jpg"
+featured_image: "images/lights2.jpg"
 omit_header_text: true
 description: We'd love to hear from you
 type: page
@@ -8,7 +8,8 @@ menu: main
 
 ---
 
-
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
-
-{{< form-contact action="https://example.com"  >}}
+If you are interested in finding out more about my work here are some of my contact details:
+- Email: jhquilty99@gmail.com
+- LinkedIn: https://www.linkedin.com/in/johnhquilty/
+- GitHub: https://github.com/jhquilty99 
+- Tableau: https://public.tableau.com/app/profile/john.h.quilty 

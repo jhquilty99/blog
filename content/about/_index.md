@@ -1,7 +1,7 @@
 ---
 title: "About Hayden Quilty"
+featured_image: "/images/abstract.jpg"
 description: "Passionate computer scientist, analyst, gardener, and product manager, posting about some of my interests."
-featured_image: 'Headshot'
 ---
 {{< figure src="/images/Hayden_headshot.jpg" title="Headshot of Hayden Quilty" >}}
 
