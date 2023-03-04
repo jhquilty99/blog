@@ -9,29 +9,29 @@
     <lastBuildDate>Sat, 04 Mar 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://jhquilty99.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portfolio Risk Mix Visualizer</title>
-      <link>https://jhquilty99.github.io/blog/post/stock_projections/chapter-3/</link>
+      <link>https://jhquilty99.github.io/blog/post/stock_projections/</link>
       <pubDate>Tue, 06 Apr 2021 11:13:32 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/stock_projections/chapter-3/</guid>
+      <guid>https://jhquilty99.github.io/blog/post/stock_projections/</guid>
       <description>Let&amp;rsquo;s say you have $1,000 and you&amp;rsquo;d like to invest in the stock market but you&amp;rsquo;d like to balance the risk and rewards between stocks and bonds in your portfolio. This Tableau visualization will allow you to evaluate the potential return on investment with a variable ratio of stock to bonds. The visualization shows the growth of your $1,000 in the 2008 recession or over the past two years (2018-2020) which is characterized as a growth period.</description>
     </item>
     
     <item>
       <title>Urban Sound Classifier</title>
-      <link>https://jhquilty99.github.io/blog/post/urban_sound_classifier/chapter-2/</link>
+      <link>https://jhquilty99.github.io/blog/post/urban_sound_classifier/</link>
       <pubDate>Thu, 10 Dec 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/urban_sound_classifier/chapter-2/</guid>
+      <guid>https://jhquilty99.github.io/blog/post/urban_sound_classifier/</guid>
       <description>Urban soundscapes are hectic places where the sounds of people and machinery are always a commotion. In order to make sense of the busy noises of a city, we developed a data science algorithm to classify these sounds. The classifier is able to distinguish between 10 different urban sounds. I did this project as part of a collaborative masters project at Virginia Tech with Brannon King.
 We digested the 10,000+ sound files with the librosa python package and extracted features such as RMS Frequency, Amplitude, and Length.</description>
     </item>
     
     <item>
       <title>Spotify Playlist Clustering Techniques</title>
-      <link>https://jhquilty99.github.io/blog/post/spotify_clustering/chapter-1/</link>
+      <link>https://jhquilty99.github.io/blog/post/spotify_clustering/</link>
       <pubDate>Thu, 08 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/spotify_clustering/chapter-1/</guid>
+      <guid>https://jhquilty99.github.io/blog/post/spotify_clustering/</guid>
       <description>Like so many other Spotify users I find myself dumping all of my favorite songs into one massive playlist. If only there were some way to automatically make cohesive playlists out of the 1000+ songs I like to hear on Spotify. Thats how I turned to data science to inform and automate my playlist creation.
 In this project, I examined the different dimensions that were offered by Spotify&amp;rsquo;s API. At first I did some Exploratory Data Analysis (EDA) and made functions that would taken a given Spotify playlist and generate histograms of songs by decade and amplitude, as well as bar charts for breakdowns by artist and album.</description>
     </item>
