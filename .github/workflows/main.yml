@@ -25,10 +25,5 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.TOKEN }}
-          external_repository: jhquilty99/jhquilty99.github.io
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          #   keep_files: true
-          user_name: jhquilty99
-          user_email: jhquilty99@gmail.com
-          publish_branch: main
