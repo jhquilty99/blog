@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "/hugo-website"
+title = "Hayden's Blog"
+baseURL = "https://jhquilty99.github.io/blog/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 themesDir = "themes"
