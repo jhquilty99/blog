@@ -1,7 +1,7 @@
 ---
 date: 2020-12-10T11:00:59-04:00
 description: "Utilizes data science techniques to classify urban noises into 10 distinct sounds including a jackhammer, music, and sirens."
-featured_image: "/images/soundwaves.jpg"
+featured_image: "soundwaves.jpg"
 tags: []
 title: "Urban Sound Classifier"
 ---
