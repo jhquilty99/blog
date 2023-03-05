@@ -1,7 +1,7 @@
 ---
 date: 2020-10-08T10:58:08-04:00
 description: "A tool that classifies all the songs in one Spotify playlist into many different clusters, for a more consistent listening experience."
-featured_image: "/images/spotify_logo.jpg"
+featured_image: "spotify_logo.jpg"
 tags: []
 title: "Spotify Playlist Clustering Techniques"
 ---
