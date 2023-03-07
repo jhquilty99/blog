@@ -12,9 +12,9 @@ We digested the 10,000+ sound files with the _librosa_ python package and extrac
 
 The most interesting feature we were able to approximate was beats per second. We were able to do this by identifying high and low amplitude sections of a sound file and count how many distinct high amplitude sections were in each section of sound. By normalizing to one second intervals of sound and generating features for multiple thresholds of silence (periods of low amplitude), we were able to map out multiple dimensions of beats per second for each sound. This feature was important in the final model. 
 
-After testing a Convolutional Neural Network (CNN), XGBoost, and a Random Forest model, we gound that that the Random Forest performed the best. With 90%+ accuracy on classifying 10 sounds in an urban setting, we felt accomplished that we could derive features from a nuanced data source. 
+After testing a Convolutional Neural Network (CNN), XGBoost, and a Random Forest model, we found that that the Random Forest performed the best. With 90%+ accuracy on classifying 10 sounds in an urban setting, we felt accomplished that we could derive features from a nuanced data source. 
 
-You can check out the collaboratory here:
+You can check out the Google collaboratory here:
 https://colab.research.google.com/drive/1-4FxVwCUWGg-J6Cvd_L9ymcLZof1dILO?usp=sharing
 
 The research paper can be found here:
