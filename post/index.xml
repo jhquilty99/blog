@@ -60,7 +60,8 @@ In this project, I examined the different dimensions that were offered by Spotif
       <pubDate>Thu, 13 Feb 2020 10:58:08 -0400</pubDate>
       
       <guid>https://jhquilty99.github.io/blog/post/biochemistry_journal/</guid>
-      <description>While working in a computational biology lab, I was interested in learning more about how to visualize the unseen. This brought me down the rabbit hole of Biomolecular Visualization or using 2D graphics and 3D representations to better understand the structure of proteins, carbohydrates, and other biomolecules. I taught myself how to utilize pymol structures in Blender and render them with realistic lighting. I then used theses skills to craft a diorama that shows how different inhibitors (silver and gold) could be used in the binding cavity of Sphingosine kinase 2, which is an important regulator of immune cells.</description>
+      <description>While working in a computational biology lab, I was interested in learning more about how to visualize the unseen. This brought me down the rabbit hole of Biomolecular Visualization or using 2D graphics and 3D representations to better understand the structure of proteins, carbohydrates, and other biomolecules. I created a mini research paper to highlight my findings here.
+I then taught myself how to utilize pymol structures in Blender and render them with realistic lighting.</description>
     </item>
     
     <item>
