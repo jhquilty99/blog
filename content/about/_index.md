@@ -1,5 +1,5 @@
 ---
-title: "About Hayden Quilty"
+title: "About"
 featured_image: "/images/abstract.jpg"
 description: "Passionate computer scientist, analyst, gardener, and product manager, posting about some of my interests."
 ---

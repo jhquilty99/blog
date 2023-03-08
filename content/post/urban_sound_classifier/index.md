@@ -14,8 +14,6 @@ The most interesting feature we were able to approximate was beats per second. W
 
 After testing a Convolutional Neural Network (CNN), XGBoost, and a Random Forest model, we found that that the Random Forest performed the best. With 90%+ accuracy on classifying 10 sounds in an urban setting, we felt accomplished that we could derive features from a nuanced data source. 
 
-You can check out the Google collaboratory here:
-https://colab.research.google.com/drive/1-4FxVwCUWGg-J6Cvd_L9ymcLZof1dILO?usp=sharing
+You can check out the Google collaboratory repository [here](https://colab.research.google.com/drive/1-4FxVwCUWGg-J6Cvd_L9ymcLZof1dILO?usp=sharing).
 
-The research paper can be found here:
-https://drive.google.com/file/d/1Al7MePm7sUYMoe0tUkQT-xoUxHIXTvfn/view?usp=sharing 
+The research paper can be found [here](https://drive.google.com/file/d/1Al7MePm7sUYMoe0tUkQT-xoUxHIXTvfn/view?usp=sharing).

@@ -9,5 +9,4 @@ While going through a period of high inflation in 2022 I started to wonder if th
 
 I noticed that each region did track generally the same movements as the countrywide index, but the magnitude of the change in different regions was more variable. In addition, there is a cyclical pattern between inflation in housing and renting. This can be thought of as the market correcting between being favorable for homeowners versus renters. My current hypothesis would be that it is a good time to buy a rental property when the housing inflation in the region has been superseded by rent inflation for the past 6 months, and that particular region is seeing lower than countrywide housing inflation. Similarly, it might make sense to rent a home when the housing inflation exceeds rental inflation and housing inflation in that region is higher than the countrywide. I will be further expanding this work and will use it to make investment decisions in the future.
 
-Check out the repository here:
-https://github.com/jhquilty99/Inflation-EDA 
+Check out the repository [here](https://github.com/jhquilty99/Inflation-EDA).

@@ -9,5 +9,4 @@ Let's say you have $1,000 and you'd like to invest in the stock market but you'd
 
 ![Stock and Bond: Risk Reward Visualization on Tableau Public](stock_capture.JPG)
 
-You can check out the viz here:
-https://public.tableau.com/app/profile/john.h.quilty/viz/StockBondValue/Dashboard1
+You can check out the visualization [here](https://public.tableau.com/app/profile/john.h.quilty/viz/StockBondValue/Dashboard1).
