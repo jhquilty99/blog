@@ -10,7 +10,6 @@ SectionPagesMenu = "main"
 Paginate = 12 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = "G-0EZM79MMWQ"
 enableRobotsTXT = true
-googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
 
 [sitemap]
   changefreq = "monthly"
