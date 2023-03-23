@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on Hayden&#39;s Blog</title>
+    <title>Welcome on Hayden Quilty</title>
     <link>https://jhquilty99.github.io/blog/</link>
-    <description>Recent content in Welcome on Hayden&#39;s Blog</description>
+    <description>Recent content in Welcome on Hayden Quilty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Mar 2023 15:58:08 -0400</lastBuildDate><atom:link href="https://jhquilty99.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Mar 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://jhquilty99.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Climate Visualizer Website</title>
+      <link>https://jhquilty99.github.io/blog/post/climate_visualizer/</link>
+      <pubDate>Thu, 23 Mar 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://jhquilty99.github.io/blog/post/climate_visualizer/</guid>
+      <description>I created a website to analyze climate metrics over time. This is Plotly Dash application that displays climate data over the past 60 years anywhere in the world. I was inspired to create this project as mean global temperatures have increased nearly 2 degrees Fahrenheit in recent history, but it was hard to connect that to the changes in my local climate. The application highlights the change in mean temperature, snowfall, and days of frost year by year, which allows you to see the climate change in your area.</description>
+    </item>
+    
     <item>
       <title>Inflation Exploratory Data Analysis</title>
       <link>https://jhquilty99.github.io/blog/post/inflation_exploration/</link>

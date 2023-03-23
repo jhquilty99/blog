@@ -2,12 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jhquilty99.github.io/blog/post/inflation_exploration/</loc>
-    <lastmod>2023-03-07T15:58:08-04:00</lastmod>
+    <loc>https://jhquilty99.github.io/blog/post/climate_visualizer/</loc>
+    <lastmod>2023-03-23T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
     <loc>https://jhquilty99.github.io/blog/</loc>
+    <lastmod>2023-03-23T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url><url>
+    <loc>https://jhquilty99.github.io/blog/post/inflation_exploration/</loc>
     <lastmod>2023-03-07T15:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
