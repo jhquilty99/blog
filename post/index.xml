@@ -2,92 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Hayden Quilty</title>
-    <link>https://jhquilty99.github.io/blog/post/</link>
+    <link>/post/</link>
     <description>Recent content in Projects on Hayden Quilty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://jhquilty99.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Mar 2023 12:00:00 -0500</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Climate Visualizer Website</title>
-      <link>https://jhquilty99.github.io/blog/post/climate_visualizer/</link>
+      <link>/post/climate_visualizer/</link>
       <pubDate>Thu, 23 Mar 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/climate_visualizer/</guid>
+      <guid>/post/climate_visualizer/</guid>
       <description>I created a website to analyze climate metrics over time. This is Plotly Dash application that displays climate data over the past 60 years anywhere in the world. I was inspired to create this project as mean global temperatures have increased nearly 2 degrees Fahrenheit in recent history, but it was hard to connect that to the changes in my local climate. The application highlights the change in mean temperature, snowfall, and days of frost year by year, which allows you to see the climate change in your area.</description>
     </item>
     
     <item>
       <title>Inflation Exploratory Data Analysis</title>
-      <link>https://jhquilty99.github.io/blog/post/inflation_exploration/</link>
+      <link>/post/inflation_exploration/</link>
       <pubDate>Tue, 07 Mar 2023 15:58:08 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/inflation_exploration/</guid>
+      <guid>/post/inflation_exploration/</guid>
       <description>While going through a period of high inflation in 2022 I started to wonder if there were trends in the inflation of certain good by regions. This could prove useful when looking looking to make major purchases for items like homes and automobiles. I created a script that would allow a user to explore different ways of visualizing the inflationary data of housing, renting a house, and the overall CPI by region.</description>
     </item>
     
     <item>
       <title>Northern Virginia Monthly Conditions</title>
-      <link>https://jhquilty99.github.io/blog/post/seasonal_weather_nova/</link>
+      <link>/post/seasonal_weather_nova/</link>
       <pubDate>Tue, 06 Jul 2021 05:30:08 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/seasonal_weather_nova/</guid>
+      <guid>/post/seasonal_weather_nova/</guid>
       <description>It was getting late in the winter, spring was just around the corner, but I wasn&amp;rsquo;t sure if now was the right time to sow some seeds for the garden. I looked for resources online for when to sow different seeds and the Farmer&amp;rsquo;s Almanac has a plant date for every seed and region imaginable. This let me know that a good time to sow most seeds, ie last frost date, was late April in Northern Virginia.</description>
     </item>
     
     <item>
       <title>Portfolio Risk Mix Visualizer</title>
-      <link>https://jhquilty99.github.io/blog/post/stock_projections/</link>
+      <link>/post/stock_projections/</link>
       <pubDate>Tue, 06 Apr 2021 11:13:32 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/stock_projections/</guid>
+      <guid>/post/stock_projections/</guid>
       <description>Let&amp;rsquo;s say you have $1,000 and you&amp;rsquo;d like to invest in the stock market but you&amp;rsquo;d like to balance the risk and rewards between stocks and bonds in your portfolio. This Tableau visualization will allow you to evaluate the potential return on investment with a variable ratio of stock to bonds. The visualization shows the growth of your $1,000 in the 2008 recession or over the past two years (2018-2020) which is characterized as a growth period.</description>
     </item>
     
     <item>
       <title>Urban Sound Classifier</title>
-      <link>https://jhquilty99.github.io/blog/post/urban_sound_classifier/</link>
+      <link>/post/urban_sound_classifier/</link>
       <pubDate>Thu, 10 Dec 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/urban_sound_classifier/</guid>
+      <guid>/post/urban_sound_classifier/</guid>
       <description>Urban soundscapes are hectic places where the sounds of people and machinery are always a commotion. In order to make sense of the busy noises of a city, we developed a data science algorithm to classify these sounds. The classifier is able to distinguish between 10 different urban sounds. I did this project as part of a collaborative masters project at Virginia Tech with Brannon King.
 We digested the 10,000+ sound files with the librosa python package and extracted features such as RMS Frequency, Amplitude, and Length.</description>
     </item>
     
     <item>
       <title>Spotify Playlist Clustering Techniques</title>
-      <link>https://jhquilty99.github.io/blog/post/spotify_clustering/</link>
+      <link>/post/spotify_clustering/</link>
       <pubDate>Thu, 08 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/spotify_clustering/</guid>
+      <guid>/post/spotify_clustering/</guid>
       <description>Like so many other Spotify users I find myself dumping all of my favorite songs into one massive playlist. If only there were some way to automatically make cohesive playlists out of the 1000+ songs I like to hear on Spotify. Thats how I turned to data science to inform and automate my playlist creation.
 In this project, I examined the different dimensions that were offered by Spotify&amp;rsquo;s API. At first I did some Exploratory Data Analysis (EDA) and made functions that would taken a given Spotify playlist and generate histograms of songs by decade and amplitude, as well as bar charts for breakdowns by artist and album.</description>
     </item>
     
     <item>
       <title>Cover Art for ACS Letters of Medicinal Chemistry</title>
-      <link>https://jhquilty99.github.io/blog/post/biochemistry_journal/</link>
+      <link>/post/biochemistry_journal/</link>
       <pubDate>Thu, 13 Feb 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/biochemistry_journal/</guid>
+      <guid>/post/biochemistry_journal/</guid>
       <description>While working in a computational biology lab, I was interested in learning more about how to visualize the unseen. This brought me down the rabbit hole of Biomolecular Visualization or using 2D graphics and 3D representations to better understand the structure of proteins, carbohydrates, and other biomolecules. I created a mini research paper to highlight my findings here.
 I then taught myself how to utilize pymol structures in Blender and render them with realistic lighting.</description>
     </item>
     
     <item>
       <title>Weather Balloon Visualization</title>
-      <link>https://jhquilty99.github.io/blog/post/weather_balloon/</link>
+      <link>/post/weather_balloon/</link>
       <pubDate>Fri, 06 Apr 2018 10:58:08 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/weather_balloon/</guid>
+      <guid>/post/weather_balloon/</guid>
       <description>As part of an engineering project in high school, we created a weather balloon and sent it 20 miles into the sky with GPS and thermometers to record temperature and position over time. Once this project was completed, and we had all this data which tracked millions of seconds over the 2 hour journey of the balloon, it was now a question of what to do with it. At first I though it would be good to visualize the data using simple 2D graphs but then I realized that could be missing the full view.</description>
     </item>
     
     <item>
       <title>DNA Transcription Animation</title>
-      <link>https://jhquilty99.github.io/blog/post/dna-_animation/</link>
+      <link>/post/dna-_animation/</link>
       <pubDate>Thu, 01 Feb 2018 10:58:08 -0400</pubDate>
       
-      <guid>https://jhquilty99.github.io/blog/post/dna-_animation/</guid>
+      <guid>/post/dna-_animation/</guid>
       <description>I wanted to use my skills with Blender to try and piece together the puzzle of what is happening with DNA transcription. I used what I already knew about DNA transcription from my textbook in addition to other graphics I had found on the internet to come up with a storyboard for the animation. Then I looked at online resources for downloading biomolecules and came across https://www.rcsb.org/ which had resources for every biomolecule I needed.</description>
     </item>
     

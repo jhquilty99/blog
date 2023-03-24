@@ -2,74 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jhquilty99.github.io/blog/post/climate_visualizer/</loc>
+    <loc>/post/climate_visualizer/</loc>
     <lastmod>2023-03-23T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/</loc>
+    <loc>/</loc>
     <lastmod>2023-03-23T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/post/inflation_exploration/</loc>
+    <loc>/post/inflation_exploration/</loc>
     <lastmod>2023-03-07T15:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2023-03-04T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/post/seasonal_weather_nova/</loc>
+    <loc>/post/seasonal_weather_nova/</loc>
     <lastmod>2021-07-06T05:30:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/post/stock_projections/</loc>
+    <loc>/post/stock_projections/</loc>
     <lastmod>2021-04-06T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/post/urban_sound_classifier/</loc>
+    <loc>/post/urban_sound_classifier/</loc>
     <lastmod>2020-12-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/post/spotify_clustering/</loc>
+    <loc>/post/spotify_clustering/</loc>
     <lastmod>2020-10-08T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/post/biochemistry_journal/</loc>
+    <loc>/post/biochemistry_journal/</loc>
     <lastmod>2020-02-13T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/post/weather_balloon/</loc>
+    <loc>/post/weather_balloon/</loc>
     <lastmod>2018-04-06T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/post/dna-_animation/</loc>
+    <loc>/post/dna-_animation/</loc>
     <lastmod>2018-02-01T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/about/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/categories/</loc>
+    <loc>/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/contact/</loc>
+    <loc>/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url><url>
-    <loc>https://jhquilty99.github.io/blog/tags/</loc>
+    <loc>/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
