@@ -1,5 +1,5 @@
 title = "Hayden Quilty"
-baseURL = "https://jhquilty99.github.io/blog/"
+baseURL = "/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
