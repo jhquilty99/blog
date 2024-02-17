@@ -1,8 +1,12 @@
 ---
 title: "About"
 featured_image: "/images/abstract.jpg"
-description: "Passionate computer scientist, analyst, gardener, and product manager, posting about some of my interests."
+description: "Passionate data scientist, analyst, and gardener posting about some of my interests."
 ---
 !["Hayden Quilty, ca 2020"](Hayden_headshot.jpg)
 
-_Hayden Quilty_ is a Senior Data Analyst at Root where he identifies high value underwriting opportunities and ensures they are delivered at a FinTech startup company. Hayden is currently pursuing new opportunities in product management and analytics. He graduated with a Bachelors of Science in Biochemistry from Virginia Tech in 2021. Upon graduating, he recognized that he was more driven by the data and the technology behind biochemistry than the process of doing the science itself. He spent the following months learning SQL, data analysis, and machine learning skills and landed a job as a machine learning model developer within the auto insurance space later that summer. 
+_Hayden Quilty_ is a Lead Data Scientist at Integrated Specialty Coverages Inc., he's driven the development of three impactful machine learning models. His expertise extends to implementing scalable machine learning models, fostering collaboration with engineering teams, and translating complex data science outcomes into business-friendly exhibits.
+
+Earlier in his career he was a Senior Data Analyst at Root Inc and Modeling Development Analyst at GEICO, he identified and rectified critical underwriting bugs. He oversaw the implementation of the Modeling Automation Suite, a low-code solution to generate insurance rating factors for one of the country's biggest insurers. His strategic contributions drove success in GEICO's personal auto product: enhancing customer interest, satisfaction, and retention.
+
+Throughout his career, he's demonstrated leadership, strategic thinking, and a solutions-oriented mindset, bridging the gap between sophisticated data science concepts and practical business applications.
