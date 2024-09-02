@@ -1,7 +1,7 @@
 ---
 date: 2020-02-13T10:58:08-04:00
 description: "Designed cover art for a respected chemistry journal."
-featured_image: "biochem_journal.jpg"
+featured_image: "biochem_journal.png"
 tags: []
 title: "Cover Art for ACS Letters of Medicinal Chemistry"
 ---

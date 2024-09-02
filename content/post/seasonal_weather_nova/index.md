@@ -1,7 +1,7 @@
 ---
 date: 2021-07-06T5:30:08-04:00
 description: "A visualization to depict monthly temperatures, snowfall, and sun light in Northern Virginia."
-featured_image: "nova_temps.jpg"
+featured_image: "extreme_weather.jpg"
 tags: []
 title: "Northern Virginia Monthly Conditions"
 ---
@@ -10,3 +10,5 @@ It was getting late in the winter, spring was just around the corner, but I wasn
 I set out to create my own visualization that would help uncover why I ought to sow certain seeds at different parts of the year in Northern Virginia. I found that Dulles International Airport, has been collecting local weather data for 20+ years, and that data was available through NOAA. I downloaded this data, and visualized the variations in Tableau. I settled on using a box and whisker plot since that summarizes the distribution of temperatures across a discrete x-axis (months) well. My results showed me that the Almanac is right to think that April is the last frost date for this region.
 
 Check out the visualization on Tableau Public [here](https://public.tableau.com/app/profile/john.h.quilty/viz/DullesTemps/Dashboard1).
+
+![Rendering of the dashboard from Tableau](nova_temps.jpg)

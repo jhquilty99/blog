@@ -1,7 +1,7 @@
 ---
 date: 2021-04-06T11:13:32-04:00
 description: "Utilizes 2008 and 2018 data to compare the risk and reward of different portfolios when looking at their stock to bond ratio."
-featured_image: "stock.jpg"
+featured_image: "stock_projection.jpg"
 tags: []
 title: "Portfolio Risk Mix Visualizer"
 ---
