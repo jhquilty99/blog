@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article class="pa3 nested-copy-line-height flex ma5-l">
+    <div class="flex flex-column flex-row-l b0 {{ $.Param " text_color" | default "black" }}">
+      <img src="/about/Hayden_headshot.jpg" class="img measure-wide" alt="Image of Hayden Quilty ca 2020"></img>
+      <div class ="pa3">
+        {{- .Content -}}
+      </div>
+    </div>
+    </div>
+    {{- template "_internal/pagination.html" . -}}
+  </div>
+</article>
+{{ end }}
