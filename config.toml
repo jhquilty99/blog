@@ -35,3 +35,18 @@ enableRobotsTXT = true
   recent_posts_number = 7
   body_classes = "avenir white"
   post_content_classes = "aventir"
+
+[[params.ananke_socials]]
+  name = "reddit"
+  url = "https://reddit.com/"
+  color = "black"
+  label = "reddit"
+  follow = false
+  share = true
+
+[[params.ananke_socials]]
+  name = "x"
+  url = "https://x.com/"
+  label = "x"
+  follow = false
+  share = true
