@@ -1,26 +1,26 @@
 {{ define "main" }}
-  <article class="pa3 pa4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
-      {{- .Content -}}
+<article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center lh-copy {{ $.Param " text_color" | default "mid-gray" }}">
+        {{- .Content -}}
     </section>
     <section class="flex-ns flex-wrap justify-around mt5">
-      {{ range .Paginator.Pages }}
+        {{ range .Paginator.Pages }}
         {{ if ne .Title "Contact" }} <!-- Exclude the post with the title "Contact" -->
-          <div class="relative w-100 w-30-l mb4 bg-white">
+        <div class="relative w-100 w-30-l mb4 bg-white">
             {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
             {{ if $featured_image }}
-                {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
-                <div class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl0" "pr0" }}">
-                    <a href="{{.RelPermalink}}" class="db grow">
-                        <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
-                    </a>
-                </div>
+            {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
+            <div class="{{ cond (eq $.Site.Language.LanguageDirection " rtl") "pl0" "pr0" }}">
+                <a href="{{.RelPermalink}}" class="db grow">
+                    <img src="{{ $featured_image }}" class="img" alt="image from {{ .Title }}">
+                </a>
+            </div>
             {{ end }}
             {{ .Render "summary" }}
-          </div>
+        </div>
         {{ end }}
-      {{ end }}
+        {{ end }}
     </section>
     {{- template "_internal/pagination.html" . -}}
-  </article>
+</article>
 {{ end }}
