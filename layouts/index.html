@@ -1,9 +1,12 @@
 {{ define "main" }}
 <article class="pa3 ph4-ns nested-copy-line-height">
-    <section class="cf ph3 ph5-l pt6 pt3-l f4 tc-l center lh-copy {{ $.Param " text_color" | default "mid-gray" }}">
+    <section class="cf ph5 pt3 f4 tc center lh-copy dn db-l {{ $.Param " text_color" | default "mid-gray" }}">
         {{- .Content -}}
     </section>
-    <section class="flex-ns flex-wrap justify-around mt5">
+    <section class="cf pa2 mt5 f4 tc center lh-copy dn-l bg-white {{ $.Param " text_color" | default "black" }}">
+        Portfolio Projects
+    </section>
+    <section class="flex-ns flex-wrap justify-around mt3 mt5-l">
         {{ range .Paginator.Pages }}
         {{ if ne .Title "Contact" }} <!-- Exclude the post with the title "Contact" -->
         <div class="relative w-100 w-30-l mb4 bg-white">
