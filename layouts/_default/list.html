@@ -1,8 +1,8 @@
 {{ define "main" }}
 <article class="pa3 nested-copy-line-height flex ma5-l">
-  <div class="flex flex-column flex-row-l b0 {{ $.Param " text_color" | default "black" }}">
-    <img src="/about/Hayden_headshot.jpg" class="img measure-wide" alt="Image of Hayden Quilty ca 2020"></img>
-    <div class="pa3">
+  <div class="flex flex-column flex-row-l center b0 {{ $.Param " text_color" | default "black" }}">
+    <img src="/about/Hayden_headshot.jpg" class="img ml0 center mt5 mt0-l" style="max-height: 622px; max-width: 80vw; width:409px;" alt="Image of Hayden Quilty ca 2020"></img>
+    <div class="pl5-l measure-wide-l" style ="width: 90vw;">
       {{- .Content -}}
     </div>
   {{- template "_internal/pagination.html" . -}}
