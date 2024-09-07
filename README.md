@@ -1,20 +1,21 @@
-This repo contains the Hugo project files for my personal website. Feel free to fork this repo for new personal websites. 
+This repo contains the Hugo project files for my personal website. Feel free to fork this repo for new personal websites.
 
 # Deployment
+
 The website gets deployed to jhquilty99.github.io/blog/ upon a change to the main branch. This is accomplished by the workflow (.github/workflow/main.yaml).
 
 To customize the URL, I purchased a domain from AWS, haydenquilty.com. I used Route53 to associate the haydenquilty.com DNS record with jhquilty99.github.io/blog/.
 
 # Website Structure
-The blog website links to two other of my projects. There repos can be found here. 
 
-* Everyday Climate Change
-    * climate.haydenquilty.com
-    * https://github.com/jhquilty99/plotly_local_climate 
-* Houseplant Phylogeny
-    * phylogeny.haydenquilty.com
-    * https://github.com/jhquilty99/plant-phylogeny 
+The blog website links to two other of my projects. There repos can be found here.
 
+- Everyday Climate Change
+  - climate.haydenquilty.com
+  - https://github.com/jhquilty99/plotly_local_climate
+- Houseplant Phylogeny
+  - phylogeny.haydenquilty.com
+  - https://github.com/jhquilty99/plant-phylogeny
 
 # License
 
