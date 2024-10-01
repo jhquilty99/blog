@@ -1,9 +1,30 @@
 {{ define "main" }}
-<article class="pa3 ph4-ns nested-copy-line-height">
+<article class="pa3 mt5 ph4-ns nested-copy-line-height">
     <section class="cf ph5 pt3 f4 tc center lh-copy dn db-l {{ $.Param " text_color" | default "mid-gray" }}">
         {{- .Content -}}
     </section>
-    <section class="cf pa2 mt5 f4 tc center lh-copy dn-l bg-white {{ $.Param " text_color" | default "black" }}">
+    <section class="flex flex-wrap mb6-l center justify-center">
+        <img src="/about/hayden_maui.jpg" class="img pb2 pa0-l h-100 w-100 w-50-l" alt="image from {{ .Title }}">
+        <div class="bg-black white ml3-l pa3 measure-l tl w-100 w-50-l">
+            <h3> Hi, I'm Hayden Quilty. </h3>
+            <p class = 'f6'>I'm a data scientist at Integrated Specialty Coverages. I build AI-powered insurance services. I have deployed multiple machine learning models end to end, doing everything from business problem understanding to training a model and integrating predictions into the platform.</p>
+            <p class = 'f6'>
+                This website shows off some of my hobby projects across my different interests. This website was built with
+                <a href="https://github.com/jhquilty99/blog">GitHub Page</a>
+                and <a href="https://gohugo.io/about/">Hugo</a>
+                using the <a href="https://github.com/theNewDynamic/gohugo-theme-ananke">Ananke theme</a>
+                with some custom CSS and JavaScript.
+            </p>   
+            <p class = 'f6'>  
+                My resume is available here. You can reach me at 
+                <a href="mailto:jhquilty99gmail.com">jhquilty99gmail.com</a>. 
+                My LinkedIn is 
+                <a href="https://www.linkedin.com/in/johnhquilty/">here</a>.
+                Scroll down for my portfolio of projects.
+            </p>
+        </div>  
+    </section>
+    <section class="cf pa2 mt3 f4 tc center lh-copy dn-l bg-dark-blue white {{ $.Param " text_color" | default "black" }}">
         Portfolio Projects
         <hr>
         <div class = 'i f5'>Machine learning experiments and data visualizations, designed and built by Hayden Quilty</h3>

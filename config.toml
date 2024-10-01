@@ -33,8 +33,8 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/coding.jpg"
   recent_posts_number = 7
-  body_classes = "avenir white"
-  post_content_classes = "aventir"
+  body_classes = "baskerville white"
+  post_content_classes = "europa"
 
 [[params.ananke_socials]]
   name = "reddit"
